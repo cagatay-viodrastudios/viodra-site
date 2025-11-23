@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#0a0a0f; color:white; }
+header { padding:20px; text-align:center; border-bottom:1px solid #333; }
+.hero, .app-hero { text-align:center; padding:60px 20px; }
+.btn { padding:10px 20px; background:white; color:black; text-decoration:none; border-radius:6px; }
+.app-img { width:200px; border:2px solid #444; margin-bottom:20px; }
+a { color:#9cf; }
